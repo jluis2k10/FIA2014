@@ -10,4 +10,5 @@ Este programa  modela un cruce de carreteras, donde cada carril de una carretera
 Programa escrito en Prolog.
 
 "go."   comienza la ejecución.
+
 "demo." comienza una ejecución de demostración sin preguntar los hechos al usuario.
